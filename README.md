@@ -6,7 +6,7 @@ Become a Competent Red Teamer or Penetration Tester with Step-By-Step Guidance O
 ### MITRE ATT&CK
 https://attack.mitre.org/matrices/enterprise/windows/
 
-MITRE ATT&CK is a comprehensive knowledgebase of adversary tactics, techniques and procedures ("TTPS") based on real-world observations of cyber security threats. The data is layed out in matrices that are arranged by attack stages, from initial system access to action on objectives and impact.  Tactics are displayed across the top header as attacker goals, Techniques are displayed in columns and detail how attackers achive those goals and finally the Procedures are the technical, finger-on-keyboard commands for goal execution
+MITRE ATT&CK is a comprehensive knowledgebase of adversary tactics, techniques and procedures ("TTPS") based on real-world observations of cyber security threats. The data is layed out in matrices that are arranged by attack stages, from initial system access to action on objectives and impact.  Tactics are displayed across the top header as attacker goals, Techniques are displayed in columns and detail how attackers achieve those goals and finally the Procedures are the technical, finger-on-keyboard commands for goal execution
 
 
 ### MITRE SHIELD (Active Defense)
