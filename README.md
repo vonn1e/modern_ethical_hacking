@@ -12,6 +12,8 @@ MITRE ATT&CK is a comprehensive knowledgebase of adversary tactics, techniques a
 ### MITRE SHIELD (Active Defense)
 https://shield.mitre.org/matrix/
 
+MITRE SHIELD is aimed to help cyber incident responders and threat hunters proctively subvert attacker activities by intentionally introducing breadcrumbs, in such a way, that the decoy data becomes virtually indestiguishable from legitimate data.  This affords SOC analysts and threat hunters a high-fidelity detection opportunity which can trap attackers as they seek to accomplish post-exploitation objectives on a compromised host.
+
 ### OWASP Top 10 2017 (currently latest)
 https://owasp.org/www-project-top-ten/2017/
 
