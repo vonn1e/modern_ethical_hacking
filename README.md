@@ -23,3 +23,5 @@ https://portswigger.net/research/top-10-web-hacking-techniques-of-2020
 
 ### Taking Notes and Staying Organized
 https://tools.kali.org/reporting-tools/cherrytree
+
+Most Penetration Testers and Red Teamers loathe the report writing phase; however, if detailed, lucid, notes are taken during the course of the Penetration Testing engagement or Red Team exercise, it can make the reporting phase not only easier, but I dare say, even pleasurable.  Good reports are well documented, educate your audience in a non-technical language they can understand, respects the scope in the rules of engagement and contains an executive summary followed by a detailed attack narrative.  A finding summary and recommendations section should follow so needed actions can take place.  CherryTree is a great tool I often use to assimilate my notes before formally composing them in a polished report.
