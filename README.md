@@ -17,5 +17,7 @@ MITRE SHIELD is aimed to help cyber incident responders and threat hunters proct
 ### OWASP Top 10 2017 (currently latest)
 https://owasp.org/www-project-top-ten/2017/
 
+The OWASP Top 10 represents the cyber community's consensus on the most critical web application security risks. Although OWASP is currently the gold standard web application developers and software engineers should seek to test their software against, PortSwigger's annual "Top 10 Web Hacking Techiques" report is a veritable contender and should also be considered: https://portswigger.net/research/top-10-web-hacking-techniques-of-2020
+
 ### Taking Notes and Staying Organized
 https://tools.kali.org/reporting-tools/cherrytree
