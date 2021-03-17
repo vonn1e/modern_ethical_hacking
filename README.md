@@ -72,3 +72,8 @@ This is an exhaustive series on computer networking.  There are 57 lecutures ran
 https://www.youtube.com/watch?v=rL8RSFQG8do&list=PLF360ED1082F6F2A5
 
 This series is a little older than NetworkKing's playlist but includes less lectures and some might find it more accessible.
+
+### Paid n00b to Ninja Course (Udemy) 
+https://www.udemy.com/course/networking-basics/
+
+I created this short course for anyone needing a quick refresher on Networking Fundamentals.  Get everything you need to know in just 2 hours.
