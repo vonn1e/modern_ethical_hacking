@@ -61,7 +61,8 @@ Most Penetration Testers and Red Teamers loathe the report writing phase; howeve
 
 https://obsidian.md/
 
-Obsidian is the new kid on the block and is actually my preferred method of taking notes now.  It will most likely eclipse CherryTree because of it's ultra-modern approach to recording information.  With Obsidian, everything is injested in Markdown.  What is Markdown you say?  Markdown is an open-source mark up language that lets you quickly and intuitively format text.  Obsidian, takes the best of Markdown and supercharges it.  For example, you can quickly make connections with notes and then view your links in graph view to get more ideas.  All panes can be pinned and split and grouped and rearranged into almost any style you want.  Everything can be tagged and searched. You can even view backlinks to see what sections of your notes are linking to your current active note page.  I strongly suggest you check out Obsidian, it's free and awesome!
+Obsidian is the new kid on the block and is actually my preferred method of taking notes now.  It will most likely eclipse CherryTree because of it's ultra-modern approach to recording information.  With Obsidian, everything is injested in Markdown.  What is Markdown you say?  Markdown is an open-source mark up language that lets you quickly and intuitively format text.  Obsidian, takes the best of Markdown and supercharges it.  For example, you can quickly make connections with notes and then view your links in graph view to get more ideas.  All panes can be pinned and split and grouped and rearranged into almost any style you want.  Everything can be tagged and searched. You can even view backlinks to see what sections of your notes are linking to your current active note page.  I strongly suggest you check out Obsidian, it's free and awesome!ddd
+
 ---
 
 ## Networking Refresher
