@@ -32,7 +32,7 @@
                                                         
 
 # Modern Ethical Hacking (Course Resources)
-Become a Competent Red Teamer or Penetration Tester with Step-By-Step Guidance Over Bite-Sized Lectures
+Become a Competent Red Teamer or Penetration Tester with Step-By-Step Guidance Over Bite-Sized Lectures. 
 Enroll in the complete course only on Udemy: https://www.udemy.com/course/modern-ethical-hacking-complete-course/?referralCode=79451375C3A71A891EF7
 
 ## Foundational Material
